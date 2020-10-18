@@ -1,0 +1,313 @@
+body
+{
+	padding:0;
+	margin: 0;
+	font-family: -apple-system, BlinkMacSystemFont;
+
+}
+ul
+{
+	list-style-type: none;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	font-size: 0.85em;
+	font-weight: 300;
+	margin-top: 5.5px;
+}
+a
+{
+	text-decoration: none;
+	color: white; 
+	color: rgb(214,214,214);
+}
+nav
+{
+	display: flex;
+	align-items: center;
+	
+}
+.navig
+{
+	width: 100%;
+	height: 44px;
+	background-color: rgba(51,51,51,1);
+
+}
+.b1, .b2, .b3
+{
+	width: 30px;
+	height: 30px;
+}
+.b1
+{
+	background-image: url("applelogo.png");
+}
+.b2
+{
+	background-image: url("l1.png");
+}
+.b3
+{
+	background-image: url("l2.png");
+}
+.iPhone12Pro
+{
+	background-color: black;
+	width: 100%;
+	height: 700px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	
+}
+.ip12p
+{
+	height: 600px;
+	width: 70%;
+	min-width: 900px;
+	color:white;
+	
+	
+}
+.title12p
+{
+	text-align: center;
+	line-height: 1.2;
+}
+.tit
+{
+	color: white;
+	text-align: center;
+	font-size: 3em;
+	font-weight: 600;
+}
+.tit1
+{
+	font-weight: 250;
+	font-size: 1.7em;
+	
+}
+.shop12p
+{
+	text-align: center;
+	max-width: 300px;
+	margin:auto;
+	display: flex;
+	justify-content: center;
+	justify-content: space-around;
+	font-weight: 340;
+
+}
+.a1
+{
+	color: rgb(73,142,236);
+	
+}
+.ip12pimg
+{
+	height: 300px;
+	width: 80%;
+	margin: auto;
+}
+.img12p
+{
+	height: 300px;
+	width: 100%;
+	object-fit: contain;
+}
+.Preorder
+{
+	width: 100%;
+	height:150px;
+	display: flex;
+	justify-content: space-around;
+}
+.Porder12
+{
+	height: 120px;
+	width: 220px;
+
+}
+.Pmaxorder12
+{
+	height: 120px;
+	width: 220px;
+}
+.txt12p
+{
+	text-align: center;
+
+}
+.t1
+{
+	font-size: 1.6em;
+	font-weight: 600;
+	line-height: 2;
+}
+.t2
+{
+	font-size: 1.2em;
+	font-weight: 200;
+	color: grey;
+}
+.t3
+{
+	font-size: 1.3em;
+	font-weight: 250;
+	line-height: 3;
+	
+}
+.iPhone12
+{
+	color: rgb(251,251,256);
+	width: 100%;
+	height: 700px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.ip12pn
+{
+	height: 600px;
+	width: 70%;
+	min-width: 900px;
+	
+	
+}
+.title12pn
+{
+	text-align: center;
+	line-height: 1.2;
+	color: black;
+}
+.titn
+{
+
+	text-align: center;
+	font-size: 3em;
+	font-weight: 600;
+}
+.tit1n
+{
+	font-weight: 250;
+	font-size: 1.7em;
+	
+}
+.shop12pn
+{
+	text-align: center;
+	max-width: 300px;
+	margin:auto;
+	display: flex;
+	justify-content: center;
+	justify-content: space-around;
+	font-weight: 340;
+
+}
+.a1
+{
+	color: rgb(73,142,236);
+	
+}
+.ip12pimgn
+{
+	height: 300px;
+	width: 80%;
+	margin: auto;
+}
+.img12pn
+{
+	height: 300px;
+	width: 100%;
+	object-fit: contain;
+}
+.Preordern
+{
+	width: 100%;
+	height:150px;
+	display: flex;
+	justify-content: space-around;
+}
+.Porder12n
+{
+	height: 120px;
+	width: 220px;
+
+}
+.Pmaxorder12n
+{
+	height: 120px;
+	width: 220px;
+}
+.txt12pn
+{
+	text-align: center;
+
+}
+.t1n
+{
+	font-size: 1.6em;
+	font-weight: 600;
+	line-height: 2;
+	color: black;
+}
+.t2n
+{
+	font-size: 1.2em;
+	font-weight: 200;
+	color: grey;
+}
+.t3n
+{
+	font-size: 1.3em;
+	font-weight: 250;
+	line-height: 3;
+	color: black;
+	
+}
+.Homepod
+{
+	width: 100%;
+	height: 580px;
+	background-color: rgba(251,251,251);
+}
+.homepic
+{
+	width: 60%;
+	margin: auto;
+	height: 400px;
+	
+}
+.pichome
+{
+	width: 90%;
+	height: 400px;
+	margin: auto;
+	object-fit: contain;
+}
+.hometxt
+{
+	text-align: center;
+	color: black;
+	font-size: 4em;
+	font-weight: 500;
+	margin-top: 0px;
+}
+.mini
+{
+	font-weight: 80;
+	font-size: 0.9em;
+}
+.shop12mini
+{
+	text-align: center;
+	max-width: 300px;
+	margin:auto;
+	display: flex;
+	justify-content: center;
+	justify-content: space-around;
+	font-weight: 380;
+	
+
+}
